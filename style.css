@@ -1,4 +1,4 @@
-* {
+*{
     margim: 0;
     padding: 0;
 }
@@ -10,7 +10,7 @@ body {}
 }
 
 .principal {
-    background: #CCCCCC 
+        background: #CCCCCC; 
         padding: 30px;
 }
 
@@ -52,5 +52,5 @@ ul {
 }
 
 .imagem-beneficios {
-    width: 50%
+    width: 50%;
 }
