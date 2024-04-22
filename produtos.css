@@ -48,6 +48,9 @@ nav a:hover {
   .produtos li: active{
     border-color: pink;
   }
+  .produtos li:hover h2{
+    font-size: 34px;
+  }
 .produtos h2 {
   font-size: 30px;
   font-weight: bold;
