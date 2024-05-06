@@ -3,15 +3,17 @@
     padding: 0;
 }
 
-body {}
+body {
+    
+}
 
 #banner {
     width: 100%;
 }
 
 .principal {
-        background: #CCCCCC; 
-        padding: 30px;
+    background: #CCCCCC; 
+    padding: 30px;
 }
 
 .titulo-principal {
