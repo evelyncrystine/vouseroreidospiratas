@@ -28,7 +28,7 @@ nav a {
   text-decoration: none;
   }
   
-nav a: hover {
+nav a:hover {
   color: #C78C19;
   text-decoration: underline;
 }
@@ -47,20 +47,19 @@ nav a: hover {
   margin: 0 1.5%;
   padding: 30px 20px;
   box-sizing: border-box;
-  border: 2px;
-  solid: #000000;
+  border: 2px solid #000000;
   border-radius: 10px;
   }
   
-  .produtos li: hover {
+  .produtos li:hover {
     border-color: green;
   }
   
-  .produtos li: active {
+  .produtos li:active {
     border-color: pink;
   }
   
-  .produtos li: hover h2 {
+  .produtos li:hover h2 {
     font-size: 34px;
   } 
     
