@@ -98,8 +98,6 @@ footer {
 }
 
 main {
-  width: 940px;
-  margin: 0 auto;
 }
 
 form {
@@ -192,6 +190,10 @@ body {
 .imagem-beneficios {
 	width: 60%;
 }
+
+.conteudo-beneficios {  
+    width: 940px;
+    margin: 0 auto;
 
 .mapa {
     padding: 3em 0;
